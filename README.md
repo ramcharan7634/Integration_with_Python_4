@@ -14,3 +14,5 @@
 **This dashboard provides a comprehensive visual analysis of customer data, revealing valuable insights into demographics, purchasing patterns, and spending habits. It utilizes Python libraries like Matplotlib and Seaborn to create insightful and informative visualizations.The dashboard is powered by a Python script that generates the visualizations using Matplotlib and Seaborn libraries. The script can be adapted to work with different datasets and visualization requirements.This dashboard provides a powerful tool for understanding your customer base and optimizing your business strategies.**
 
 # OUTPUT OF THE TASK
+![,](https://github.com/user-attachments/assets/432a1cd8-a670-4635-bc64-f7baa84aa6f1)
+
